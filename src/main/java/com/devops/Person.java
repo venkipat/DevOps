@@ -19,7 +19,7 @@ public class Person {
     public String getFirstName() {
         return firstName;
     }
- 
+   //set first name
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
