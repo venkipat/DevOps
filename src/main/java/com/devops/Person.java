@@ -14,7 +14,8 @@ public class Person {
  
     private String firstName;
     private String lastName;
- 
+    
+   //get first name
     public String getFirstName() {
         return firstName;
     }
