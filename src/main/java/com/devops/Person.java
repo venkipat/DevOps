@@ -23,7 +23,7 @@ public class Person {
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
- 
+   //get last name
     public String getLastName() {
         return lastName;
     }
