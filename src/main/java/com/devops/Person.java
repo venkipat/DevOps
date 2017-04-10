@@ -27,7 +27,7 @@ public class Person {
     public String getLastName() {
         return lastName;
     }
-    //set last name
+   
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
