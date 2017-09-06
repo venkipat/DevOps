@@ -65,6 +65,12 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+
+       			
+		
+<extensions>
+      <extension>        <groupId>org.apache.maven.wagon</groupId>         <artifactId>wagon-ftp</artifactId>         <version>2.10</version>      </extension>    </extensions>
+
 	</build>
 
 
